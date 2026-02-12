@@ -1,3 +1,16 @@
+snake -water-gun game
+🐍 Snake-Water-Gun Game – Features
+🎮 Core Features
+
+✅ User vs Computer gameplay
+
+✅ Random computer move generation
+
+✅ Input-based user selection (S/W/G)
+
+✅ Win / Lose / Draw result display
+
+
 # SWGGAME
 snake water and gun game in which computer and you play tha game between two.
 import random
